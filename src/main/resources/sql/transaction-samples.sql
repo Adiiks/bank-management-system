@@ -1,0 +1,1 @@
+INSERT INTO transaction (amount, date_time, type, account_id) VALUES (100, '2022-12-20', 'TRANSFER', 1);
